@@ -1,2 +1,13 @@
-# CNC-speed-controller-UI-
- CNC speed controller (UI) - EDU project
+# **CNC-speed-controller-UI (Регулятор оборотов ЧПУ, UI)**
+***
+> [!Note]
+> Создание Ui регулятора для CNC, и его взаимодействие с регулятором.
+
+> [!IMPORTANT]
+> 1. Main.py, является запуском для программы;
+> 2. MainWindow.py, является UI программы;
+> 3. MainWindows.ui, XML -> из которого конвертируем MainWindow.py;
+
+> [!WARNING]
+> Для работы требуется установить библиотеку PyQt5.
+***
